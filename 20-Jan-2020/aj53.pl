@@ -3,7 +3,7 @@
 
 #!/usr/bin/perl
 
-open r, "text" or die "Cannot open file: \n";
+open r, "text" or die "Cannot open file: $!\n";
 while($a = <r>)
 {
 print"$a";
