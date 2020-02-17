@@ -1,0 +1,5 @@
+<catalog>
+  <part partnum="1" desc="motar" price="25" />
+  <part partnum="2" desc="supply" price="100" />
+  <part partnum="3" desc="springs" price="50" />
+</catalog>

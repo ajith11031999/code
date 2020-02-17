@@ -1,0 +1,14 @@
+<customers>
+ <customer id = "407"/>
+  <name>Ajith</name>
+  <age>21</age>
+  <DOB>11-Mar</DOB>
+  <place>Nagercoil</place>
+
+ <customer id = "408"/>
+  <name>Xavier</name>
+  <age>21</age>
+  <DOB>11-Mar</DOB>
+  <place>Nagercoil</place> 
+
+</customers>
